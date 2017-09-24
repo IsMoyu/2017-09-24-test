@@ -5,6 +5,7 @@ package com.qianfeng.test;
  */
 public class Test {
     public static void main(String[] args) {
+        int x=9;
         System.out.println("上传");
     }
 }
